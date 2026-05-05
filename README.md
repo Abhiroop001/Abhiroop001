@@ -92,7 +92,7 @@ Data Structures & Algorithms, System Design, Data Analysis
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhiroop001&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhiroop001&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---

@@ -3,103 +3,109 @@
   <img src="mybanner.jpeg" alt="Banner" width="100%" />
 </p>
 
-<!-- PROFILE IMAGE + NAME -->
-<h1 align="center">Hi 👋, I'm Abhiroop Mukherjee</h1>
+<h1 align="center">Abhiroop Mukherjee</h1>
 
 <p align="center">
-  <img src="mypic.jpeg" width="180" style="border-radius: 50%;" />
-</p>
-
-<h3 align="center">
-🚀 Aspiring AI/ML Engineer | Real-Time Intelligent Systems  
-</h3>
-
-<p align="center">
-<b>Computer Vision • NLP • FastAPI • React</b>
+  <img src="mypic.jpeg" width="160" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-📍 Howrah, West Bengal, India <br>
-📧 abhiroopmukh001@gmail.com <br>
-🔗 <a href="https://github.com/Abhiroop001">GitHub</a> • 
-<a href="https://www.linkedin.com/in/abhiroop-mukherjee-39719a2b8">LinkedIn</a>
+  <strong>AI/ML Engineer (Aspiring) | Real-Time Intelligent Systems</strong><br/>
+  Computer Vision • NLP • FastAPI • React
+</p>
+
+<p align="center">
+  📍 Howrah, India &nbsp;&nbsp;|&nbsp;&nbsp;
+  📧 abhiroopmukh001@gmail.com &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/Abhiroop001">GitHub</a> • 
+  <a href="https://www.linkedin.com/in/abhiroop-mukherjee-39719a2b8">LinkedIn</a>
 </p>
 
 ---
 
-## 🧠 Professional Summary
+## Profile
 
-Motivated B.Tech Information Technology student (CGPA: **9.53**) with hands-on experience in **AI/ML, backend systems, and full-stack development**.
+B.Tech Information Technology student with a CGPA of **9.53**, specializing in **AI/ML systems, backend engineering, and full-stack development**.
 
-I build **real-time intelligent systems** using **Computer Vision, Deep Learning, NLP, FastAPI, Node.js, and React**, with a strong focus on **impact-driven and hackathon-ready solutions**.
-
----
-
-## 🏆 Flagship Projects
-
-### 🚨 Emergi-Sensei — AI Multimodal Accident & Fire Detection
-**Team Leader | AIML Developer | FastAPI Backend**
-
-- Real-time detection using **CNN-based Computer Vision**
-- Designed backend for **live alerts & processing**
-- 🥉 **3rd Place — Inter-College Hackathon**
+Focused on building **real-time, scalable AI solutions** using **Computer Vision, Deep Learning, NLP, FastAPI, and React**, with strong emphasis on **practical implementation and problem-solving**.
 
 ---
 
-### 🧠 CEREVOLT — AI Neurocognitive Platform
-**Backend Developer | AI Integration**
+## Key Projects
 
-- AI platform for **cognitive skill enhancement**
-- Integrated **interactive therapy + ML intelligence**
-- 🌍 **Top 500 — Vishwakarma Awards (IIT Indore)**
+### Emergi-Sensei — AI-Based Accident & Fire Detection System
+- Designed real-time detection pipeline using **CNN-based Computer Vision**
+- Built backend services using **FastAPI for real-time alerting**
+- Achieved **3rd Place** at Inter-College Hackathon
 
----
+### CEREVOLT — Neurocognitive Rehabilitation Platform
+- Developed AI-powered system for **cognitive skill enhancement**
+- Integrated **interactive learning with machine learning models**
+- Selected among **Top 500 (Vishwakarma Awards, IIT Indore)**
 
-### ⛏️ KaWatch — AI Rockfall Prediction System
-**FastAPI Backend | AI/ML Integration**
+### KaWatch — Rockfall Prediction & Safety System
+- Built prediction models using **Deep Learning and Computer Vision**
+- Designed real-time alert system for **industrial safety use cases**
+- Research presented at **Regional Science & Technology Congress**
 
-- Built using **Computer Vision + Deep Learning**
-- Real-time alerts for **mine worker safety**
-- 📄 Research published (RSTC)
+### Automated Data Science Agent
+- Developed **multi-agent AI system** for automated data analysis
+- Features include **EDA automation and anomaly detection**
+- Advanced to **Intel Unnati GenAI Round 2**
 
----
-
-### 🤖 Automated Data Science Agent
-**Team Leader | AI/ML Developer**
-
-- Multi-agent system for:
-  - Automated EDA
-  - Anomaly detection
-- 🚀 Intel Unnati GenAI **Round 2**
-
----
-
-### ♻️ RECYCLE-ME — E-Waste Platform
-**Team Leader | Node.js Backend**
-
-- Sustainable **e-waste management system**
-- 🥉 Technical Poster — 3rd Position
+### RECYCLE-ME — E-Waste Management Platform
+- Built backend system using **Node.js**
+- Focused on **sustainable electronic waste management**
+- Secured **3rd Position** in technical presentation
 
 ---
 
-## 💼 Experience
+## Experience
 
 **MERN Stack Developer Intern**  
-Euphoria Genx (2025)
+Euphoria Genx | 2025  
 
 **Python Developer Intern**  
-Encryptrix (2024)
+Encryptrix | 2024  
 
-
-![Abhiroop's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhiroop001&show_icons=true&theme=radical)
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-```bash
-Languages: C | C++ | Python | Java | R
-AI/ML: Machine Learning | Deep Learning | Computer Vision | NLP
-Backend: FastAPI | Node.js
-Frontend: React | HTML | CSS | JavaScript
-Databases: MySQL | MongoDB | Oracle | SQLite
-Core: Data Structures | Algorithms | System Design
+**Languages**  
+C, C++, Python, Java, R  
+
+**AI / ML**  
+Machine Learning, Deep Learning, Computer Vision, NLP  
+
+**Backend & Web**  
+FastAPI, Node.js, React, HTML, CSS, JavaScript  
+
+**Databases**  
+MySQL, MongoDB, Oracle, SQLite  
+
+**Core Concepts**  
+Data Structures & Algorithms, System Design, Data Analysis  
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhiroop001&show_icons=true&theme=default" />
+</p>
+
+---
+
+## Professional Focus
+
+- Real-time AI system development  
+- Multimodal AI (Vision + NLP)  
+- Scalable backend architecture  
+- Applied machine learning  
+
+---
+
+<p align="center">
+  <i>Focused on building systems that translate AI into real-world impact.</i>
+</p>
